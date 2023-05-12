@@ -1,2 +1,1 @@
-# Girdling_transcriptomics
-# Girdling_transcriptomics
+The code was used to Gene Ontology enrichment analysis using larval gut transcriptome.
